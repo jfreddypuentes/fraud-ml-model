@@ -1,7 +1,7 @@
 # fraud-ml-model
 Modelo de Regresión Logística para detección de fraude en pensiones
 
-## About
+## Resumen
 El presente repo presenta la implementación de un modelo de ML aplicado a la detección de fraude mediante una regresión logística.
 
 ## Despliegue del modelo
