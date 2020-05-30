@@ -21,7 +21,7 @@ La aplicación web (Construida en Angular Framework) consume el servicio web par
 ![Tecnologías](/tecnologias_usadas.png)
 
 ## Modelo - Definción matemática
-![Resultados](/umbral.png
+![Resultados](/umbral.png)
 
 
 # Notas
