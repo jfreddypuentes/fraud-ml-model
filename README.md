@@ -21,6 +21,7 @@ La aplicación web (Construida en Angular Framework) consume el servicio web par
 ![Tecnologías](/tecnologias_usadas.png)
 
 ## Modelo - Definción matemática
+Izquierda: Gráfica ROC, derecha: Función de activación sigmoidal
 ![Resultados](/umbral.png)
 
 
