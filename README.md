@@ -30,3 +30,4 @@ Izquierda: Gráfica ROC, derecha: Función de activación sigmoidal
 * Este proyecto puede correr 100% de forma local.
 * Puede ejecutarlo en cloud.
 * Los datos no se encuentran publicados a proposito. Sin embargo, si desea realizar un estudio y necesita los datos contacteme: jfreddypuentes@gmail.com
+* Se requiere instalar: python3, NodeJS10.
